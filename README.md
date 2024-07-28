@@ -61,31 +61,31 @@ A page that displays various meal categories for easy browsing.
 
 A page where users can view and manage their saved favorite meals.
 
-![Favorite Page Screenshot](screenshots/favorite_page.png)
+![Favorite Page Screenshot](https://github.com/user-attachments/assets/c7c35df5-61ae-42de-b8e1-bfab5293c8fa)
 
 ### Settings Page
 
 A page that allows users to customize app preferences and settings.
 
-![Settings Page Screenshot](screenshots/settings_page.png)
+![Settings Page Screenshot](https://github.com/user-attachments/assets/cfbb3700-d384-474d-99ec-d9b68acf7e63)
 
 ### Category Meal Page
 
 A page that lists all meals under a selected category.
 
-![Category Meal Page Screenshot](screenshots/category_meal_page.png)
+![Category Meal Page Screenshot](https://github.com/user-attachments/assets/c1705232-35de-4707-85f4-c2e63bac9a85)
 
 ### Meal Details Page
 
 This page provides detailed information about a selected meal, including ingredients and preparation steps.
 
-![Meal Details Page Screenshot](screenshots/meal_details_page.png)
+![Meal Details Page Screenshot](https://github.com/user-attachments/assets/2d08484d-fd9c-4ea8-8302-f7a0c3f374c9)
 
 ### Add to Favorites Functionality
 
 Users can now add meals to their favorites from the Meal Details Page.
 
-![Add to Favorites Screenshot](screenshots/add_to_favorites.png)
+![Add to Favorites Screenshot](https://github.com/user-attachments/assets/84d986f0-266d-4ee0-beca-94f30733612c)
 
 ## Contribution
 
