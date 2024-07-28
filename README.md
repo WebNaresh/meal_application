@@ -47,6 +47,18 @@ flutter run
 
 For more in-depth information, check out the [Flutter documentation](https://flutter.dev/docs), which includes tutorials, samples, and a full API reference.
 
+## Categories Page
+
+This project includes a categories page that allows users to browse through different categories of items.
+
+## Contribution
+
+If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contribution
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
