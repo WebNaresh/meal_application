@@ -24,7 +24,7 @@ To get started with this project, you'll need to set up your development environ
 Clone the repository:
 
 ```bash
-git clone https://github.com/WebNaresh/meals.git
+git clone https://github.com/WebNaresh/meal_application.git
 cd meals
 ```
 
@@ -87,25 +87,26 @@ Users can now add meals to their favorites from the Meal Details Page.
 
 ![Add to Favorites Screenshot](https://github.com/user-attachments/assets/84d986f0-266d-4ee0-beca-94f30733612c)
 
-## Contribution
+### Remove to Favorites Functionality
 
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
+Users can now add meals to their favorites from the Meal Details Page.
 
-## License
+![Add to Favorites Screenshot](https://github.com/user-attachments/assets/dfbd5896-1c74-436c-94f0-8fee7b6cc94c)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Navigation
 
-## Categories Page
+### Tab Navigation
 
-This project includes a categories page that allows users to browse through different categories of items.
+The app uses tab navigation to switch between different sections easily.
 
-## Contribution
+![Tab Navigation Screenshot](https://github.com/user-attachments/assets/61b6c657-9408-4822-b76f-c7d1987e4e56)
 
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
+### Drawer Navigation
 
-## License
+The app includes a drawer navigation for accessing various pages and settings.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+![Drawer Navigation Screenshot](https://github.com/user-attachments/assets/992f6f04-b8ea-4bd0-9cbc-7f7e1f7c20f6)
+
 
 ## Contribution
 
